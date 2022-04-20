@@ -371,7 +371,7 @@ headers={
 
 
     # proxy_var=requests.session()
-    # proxy_var.proxies={"http": "http://XA759HE:sYvG3266NA@amweb.ey.net:80","https": "https://XA759HE:sYvG3266NA@amweb.ey.net:443",}
+    # proxy_var.proxies={"http": "https://link@amweblink.net:00","https": "link",}
     # # It is a good practice not to hardcode the credentials. So ask the user to enter credentials at runtime
 #response = requests.post(url, json = final_res, headers = headers)
 #print(response.content)
